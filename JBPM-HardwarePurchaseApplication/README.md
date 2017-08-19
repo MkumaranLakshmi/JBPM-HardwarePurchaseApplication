@@ -1,4 +1,4 @@
-# IT order application - case app in jBPM 7
+# Hardware Purchase application - case app in jBPM 7
 Complete application for IT orders to showcase case management in jBPM 7
 
 This application illustrates how jBPM 7 provides knowledge driven application with tailored UI for the domain. Application is composed of:
