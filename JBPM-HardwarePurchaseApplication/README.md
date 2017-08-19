@@ -41,8 +41,6 @@ murugan | qwe
 
 All users can be changes in application-users.properties file that can be found in itorders-web/src/main/config/security folder.
 
-Here you can find a [screencast](https://www.youtube.com/watch?v=GIak-6YpyaA) of this application in action in case you'd like to see what it can do. In nutshell:
-
 - application handles IT Orders for hardware
 - there are three main roles in this domain
   - owner - person who creates the order
