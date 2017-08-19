@@ -15,8 +15,9 @@ How to run it
 Application by default runs with H2 in memory data base but can be reconfigured to use other dbs like PostrgeSQL or MySQL.
 
 1. clone this repository
-2. go into hw_orders-web
-3. start WildFly Swarm with:
+2.build with maven (mvn clean install) on the root of cloned repo
+3. go into hw_orders-web
+4. start WildFly Swarm with:
 
 ```
 java -Dorg.kie.server.location=http://localhost:8080/rest/server -jar target/itorders-web-1.0.0-swarm.jar
