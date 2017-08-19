@@ -36,9 +36,9 @@ There are few predefined users that can be changed:
 
 User name | Password
 ------------ | -------------
-maciek | maciek1!
-tihomir | tihomir1!
-krisv | krisv1!
+muthukumaran | qwe
+logistics | qwe
+murugan | qwe
 
 All users can be changes in application-users.properties file that can be found in itorders-web/src/main/config/security folder.
 
@@ -54,9 +54,9 @@ You can find out what user has what roles in application-roles.properties file t
 
 User name | Role
 ------------ | -------------
-maciek | 
-tihomir | apple, lenovo, dell, others
-krisv | manager
+muthukumaran | 
+logistics | IBM, Cisco, HP, others
+murugan | manager
 
 What is important here is that groups for tihomir corresponds to available hardware suppliers that are represented as groups in business processes.
 
